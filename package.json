@@ -1,0 +1,12 @@
+{
+  "name": "samuraibs-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação de ponta a ponta em Cypress",
+  "main": "index.js",
+  "repository": "https://github.com/wesleyaju/samuraibs-tests.git",
+  "author": "Wesley Almeida",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
